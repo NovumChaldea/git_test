@@ -1,3 +1,3 @@
 # git_test
-My first GitHub ReHpo
-ello Odin god of Wisdom
+My first GitHub Repo
+Hello Odin god of Wisdom
